@@ -1,3 +1,5 @@
+# Copyright (c) 2025 sugar310sato
+# This software is released under the MIT License, see LICENSE.
 import time
 import threading
 from typing import Callable, Optional
@@ -9,7 +11,7 @@ class NFCReader:
         self.running = False
         self.reader_thread = None
         self.callback = None
-        self.clf = None        # 後で開く
+        self.clf = None        
         self._retry_count = 0
         self._max_retries = 3
 
