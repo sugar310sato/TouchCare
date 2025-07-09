@@ -1,3 +1,5 @@
+# Copyright (c) 2025 sugar310sato
+# This software is released under the MIT License, see LICENSE.
 """
 設定ファイル for お世話ぬいぐるみプロジェクト
 グローバル変数と設定を管理
