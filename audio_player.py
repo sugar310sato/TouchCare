@@ -1,3 +1,5 @@
+# Copyright (c) 2025 sugar310sato
+# This software is released under the MIT License, see LICENSE.
 """
 音声再生モジュール for お世話ぬいぐるみプロジェクト
 音声ファイルを再生する機能を提供
