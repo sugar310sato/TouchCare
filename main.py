@@ -1,3 +1,5 @@
+# Copyright (c) 2025 sugar310sato
+# This software is released under the MIT License, see LICENSE.
 # main.py - 本番用お世話ぬいぐるみ起動スクリプト
 import time
 import random
