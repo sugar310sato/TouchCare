@@ -26,7 +26,7 @@
     cd TouchCare
     ```
 
-2.  **必要なライブラリをインストールする**
+2.  **依存パッケージのインストール**
 
     ```bash
     pip install -r requirements.txt
@@ -42,6 +42,7 @@
 3.  **音声ファイルを配置する**
     `audio` ディレクトリを作成し、`config.py`の定義に合わせて音声ファイル（.wav）を配置してください。
 
+  
 4.  **NFCタグを登録する**
     `config.py` ファイルを開き、`TAG_TO_CARE_TYPE` 辞書をご自身が使用するNFCタグのIDに書き換えてください。
 
