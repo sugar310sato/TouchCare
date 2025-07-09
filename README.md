@@ -59,4 +59,4 @@ python main.py
 
 ## ライセンス
 
-このプロジェクトは [MIT License](https://www.google.com/search?q=LICENSE) の下で公開されています。
+このプロジェクトは [MIT License]((https://github.com/sugar310sato/TouchCare/blob/main/LICENSE) の下で公開されています。
